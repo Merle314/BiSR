@@ -3,6 +3,8 @@ Official implementation of **Bilateral Upsampling Network for Single Image Super
 
 Our code is built on [EDSR(PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) and [Mata-SR](https://github.com/XuecaiHu/Meta-SR-Pytorch).
 
+![avatar](image/result.png)
+
 # Requirements
 
 * Pytorch 1.5.0
